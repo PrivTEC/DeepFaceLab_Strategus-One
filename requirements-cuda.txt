@@ -1,5 +1,5 @@
 tqdm
-numpy==1.19.3
+numpy
 numexpr
 h5py
 ffmpeg-python
